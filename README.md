@@ -1,48 +1,106 @@
-# ¡Hola! Soy Yuseth 👋
+# Hi chicos, soy Yuseth 👋
 
-🎓 Estudiante de **Análisis y Desarrollo de Software** en el SENA (Quindío, Colombia)
-💻 Full Stack Developer en formación
-🐧 Trabajo en Fedora Linux
-🚀 Actualmente construyendo **NeoGaming**, una plataforma e-commerce/marketplace gaming
+### Full Stack Developer en formación | Backend con Java & Spring Boot
 
----
+<p align="start">
+  <a href="https://github.com/yuseth289">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=23&start=true&vstart=true&width=1100&height=40&lines=¡Hola!+Soy+Yuseth+👋;Estudiante+de+ADSO+en+el+SENA+%7C+Quind%C3%ADo%2C+Colombia;Java+%7C+Spring+Boot+%7C+Angular+%7C+PostgreSQL;Construyendo+NeoGaming%2C+un+marketplace+gaming+🎮;Explorando+Agentes+IA+con+LangChain+%26+ChromaDB+🤖;Bienvenido+a+mi+GitHub+✨">
+  </a>
+</p>
 
-### 🛠️ Stack que manejo
-
-**Frontend**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![NgRx](https://img.shields.io/badge/NgRx-764ABC?style=flat&logo=redux&logoColor=white)
-
-**Backend**
-![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**Bases de datos**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-**IA / Otros**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+> Estudiante de Análisis y Desarrollo de Software en el SENA, terminando mi etapa lectiva y a punto de arrancar la práctica. Me gusta meterle mano al backend con Java y Spring Boot, armar arquitecturas que no se caigan, y cada vez más curioso con los agentes de IA. Trabajo todo el día desde Fedora Linux 🐧.
 
 ---
 
-### 🎮 Proyecto destacado: NeoGaming
+## 👨‍💻 Sobre mí
 
-Plataforma e-commerce/marketplace enfocada en gaming, con arquitectura modular monolítica, split de pagos con Mercado Pago, checkout multi-vendedor y un agente de búsqueda con IA (LangChain + ChromaDB).
+- 🎓 Estudiante de **ADSO** en el SENA, Centro de Comercio y Turismo, Regional Quindío
+- 🔧 Backend con **Java 21 + Spring Boot 3**, arquitecturas modulares monolíticas
+- 🎨 Frontend con **Angular**, **NgRx** y **TailwindCSS**
+- 🗄️ Bases de datos relacionales: **PostgreSQL** y **MySQL**
+- 🤖 Explorando **Agentes de IA** con **LangChain** y **ChromaDB**
+- 🐧 Mi entorno de trabajo es **Fedora Linux**
+- 💼 Buscando activamente una práctica/pasantía remota como desarrollador junior
 
-👉 [Ver repositorio](https://github.com/yuseth289/NeoGaming)
+---
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Tecnologías
+
+<table align="center" border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3>⚛️ Frontend</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=angular,ts,tailwind,html,css,vite" />
+      </a>
+      <br/><br/>
+      <h3>☕ Backend</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,spring,py,maven" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3>🗄️ Bases de Datos</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase" />
+      </a>
+      <br/><br/>
+      <h3>⚙️ DevOps & Herramientas</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Contacto
+## 🚀 Proyecto destacado
 
-[LinkedIn](#) · [Email](#)
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%" valign="top" style="padding: 10px;">
+      <h3>🎮 NeoGaming | Plataforma e-commerce/marketplace gaming</h3>
+      <p>Plataforma enfocada en gaming, con arquitectura modular monolítica, split de pagos 1:1 con Mercado Pago, checkout multi-vendedor y un agente de búsqueda con IA construido con LangChain + ChromaDB (arquitectura ReAct, esquemas Pydantic v2 y catálogo demo de 35 productos).</p>
+      <p>
+        <strong>Tecnologías:</strong><br/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=java,spring,angular,postgresql,mysql,docker,py" height="30"/>
+        </a>
+      </p>
+      <p>
+        <a href="https://github.com/yuseth289/NeoGaming">📂 Repositorio</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
-![Estadísticas de yuseth289](https://github-readme-stats.vercel.app/api?username=yuseth289&show_icons=true&theme=dark)
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuseth289&show_icons=true&theme=tokyonight&locale=es&custom_title=Estadísticas%20de%20Yuseth&hide_border=true" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuseth289&theme=tokyonight&hide_border=true" height="200"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuseth289&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+
+---
+
+## 🌐 Contáctame
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU-LINKEDIN-AQUI/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:tu-correo@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"No hay que ser bueno para empezar, hay que empezar para ser bueno."</i>
+</p>
