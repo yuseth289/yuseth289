@@ -109,5 +109,5 @@
 </p>
 
 <p align="center">
-  <i>"No hay que ser bueno para empezar, hay que empezar para ser bueno."</i>
+  <i>"Solo se que nada se. :V"</i>
 </p>
