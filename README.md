@@ -10,7 +10,7 @@
 
 > Estudiante de Análisis y Desarrollo de Software en el SENA, terminando mi etapa lectiva y a punto de arrancar la práctica. Me gusta meterle mano al backend con Java y Spring Boot, armar arquitecturas que no se caigan, y cada vez más curioso con los agentes de IA. Trabajo todo el día desde Fedora Linux 🐧.
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:B621FE,100:1FD1F9&height=4&section=header">
+<img width="100%" height="6" src="rgb-line.gif">
 
 ## 👨‍💻 Sobre mí
 
@@ -23,7 +23,7 @@
 - 🐧 Mi entorno de trabajo es **Fedora Linux**
 - 💼 Buscando activamente una práctica/pasantía remota como desarrollador junior
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:B621FE,100:1FD1F9&height=4&section=header">
+<img width="100%" height="6" src="rgb-line.gif">
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Tecnologías
 
@@ -57,7 +57,7 @@
   </tr>
 </table>
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:B621FE,100:1FD1F9&height=4&section=header">
+<img width="100%" height="6" src="rgb-line.gif">
 
 ## 🚀 Proyecto destacado
 
@@ -82,7 +82,7 @@
   </tr>
 </table>
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:B621FE,100:1FD1F9&height=4&section=header">
+<img width="100%" height="6" src="rgb-line.gif">
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> Estadísticas de GitHub
 
@@ -94,7 +94,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuseth289&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:B621FE,100:1FD1F9&height=4&section=header">
+<img width="100%" height="6" src="rgb-line.gif">
 
 ## 🌐 Contáctame
 
