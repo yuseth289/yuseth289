@@ -92,11 +92,11 @@
 ## 🌐 Contáctame
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN-AQUI/">
+  <a href="https://www.linkedin.com/in/yuseth-salas-33b87537a/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;
-  <a href="mailto:tu-correo@gmail.com">
+  <a href="mailto:yuseth28124@gmil.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
