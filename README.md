@@ -1,4 +1,4 @@
-# Hi chicos, soy Yuseth <img src="https://api.iconify.design/mdi:hand-wave.svg?color=%231FD1F9" width="20" align="absmiddle">
+# Hola chicos, soy Yuseth <img src="https://api.iconify.design/mdi:hand-wave.svg?color=%231FD1F9" width="20" align="absmiddle">
 
 ### Full Stack Developer en formación | Backend con Java & Spring Boot
 
